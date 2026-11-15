@@ -1,0 +1,4 @@
+2026-11-15 12:55:02,932 macmini /Users/marcus/.local/bin/mcp-email-server[2253] INFO  [io.quarkus] (main) mcp-email-server 1.0.7 native (powered by Quarkus 3.21.3) started in 0.019s. 
+2026-11-15 12:55:02,932 macmini /Users/marcus/.local/bin/mcp-email-server[2253] INFO  [io.quarkus] (main) Profile prod activated. 
+2026-11-15 12:55:02,932 macmini /Users/marcus/.local/bin/mcp-email-server[2253] INFO  [io.quarkus] (main) Installed features: [cdi, mcp-server-stdio, smallrye-context-propagation, vertx]
+2026-11-15 15:39:23,585 macmini /Users/marcus/.local/bin/mcp-email-server[2253] INFO  [io.quarkus] (Shutdown thread) mcp-email-server stopped in 0.019s
